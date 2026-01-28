@@ -1,0 +1,7 @@
+{
+  "name": "SnapClean AI",
+  "description": "Professional product photo editing and background removal using natural language instructions powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
